@@ -47,10 +47,6 @@
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.1.14"
   },
-  "peerDependencies": {
-    "prop-types": "^15.5.0",
-    "react": "^15.5.0 || ^16.0.0"
-  },
   "scripts": {
     "prepublish": "webpack --progress",
     "clean": "rm -rf ./lib",
